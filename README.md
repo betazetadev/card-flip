@@ -1,4 +1,4 @@
-# Generador de Tarjetas Plegables en Flutter
+# Tarjetas Plegables en Flutter
 
 ## Descripción
 
