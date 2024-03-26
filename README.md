@@ -20,7 +20,7 @@ Este proyecto es una aplicación Flutter que presenta un widget "Tarjeta Plegabl
 
 Para ejecutar este proyecto, necesitas tener Flutter instalado en tu sistema. Si aún no lo has hecho, puedes seguir las instrucciones de instalación en el [sitio web oficial de Flutter](https://flutter.dev/docs/get-started/install).
 
-### Pasos para Ejecutar el `Proyecto
+### Pasos para Ejecutar el Proyecto
 
 1. Clona este repositorio en tu` máquina local:
 
