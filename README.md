@@ -4,8 +4,6 @@
 
 Este proyecto es una aplicación Flutter que presenta un widget "Tarjeta Plegable". La Tarjeta Plegable es una tarjeta que puede voltearse horizontalmente para revelar un lado diferente. La animación de volteo de la tarjeta se logra utilizando los widgets `AnimationController` y `Transform` de Flutter.
 
-![Una tarjeta que se voltea horizontalmente para revelar un lado diferente](screenshot.png)
-
 ## Características
 
 - Uso de `AnimationController` para controlar la animación de volteo.
