@@ -52,8 +52,6 @@ Para ejecutar este proyecto, necesitas tener Flutter instalado en tu sistema. Si
 
 Este proyecto está licenciado bajo [MIT License](https://opensource.org/licenses/MIT).
 
-[<img src="bmc_qr.png">](https://www.buymeacoffee.com/betazetadev "Buy me a coffee if it helped you.")
-
 
 
 
